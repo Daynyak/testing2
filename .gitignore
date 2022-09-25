@@ -1,4 +1,8 @@
 *.log
 *.db
 target/
+<<<<<<< HEAD
 bin/
+=======
+bin/
+>>>>>>> 10552f557e25684feb2b380f83694a612b8abf9e
